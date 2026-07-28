@@ -25,7 +25,7 @@ The notebook expects the datasets to be located at:
 data/train.csv
 data/test.csv
 ```
-
+(This is done in the beginning of the notebook)
 No additional setup is required.
 
 ## Notes
