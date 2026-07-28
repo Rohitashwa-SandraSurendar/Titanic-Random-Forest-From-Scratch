@@ -1,19 +1,5 @@
 # Titanic Random Forest From Scratch
 
-## Files
-
-```
-Titanic-Random-Forest-From-Scratch/
-│
-├── Titanic_ACM_Project.ipynb
-├── Final_project_summary.pdf
-├── README.md
-└── data/
-    ├── train.csv
-    ├── test.csv
-    └── README.md
-```
-
 ## Requirements
 
 - Python 3.x
